@@ -4,9 +4,9 @@
   <img src="https://user-images.githubusercontent.com/97610610/203404320-921cbf2c-6641-4715-93f7-270704578bc7.png" width="100"/>
 </div>
 
-A continuación podrás encontrar el manual de uso y codigos para el monitoreo satelital de lagos glaciares de la Región de Aysén. 
+En este repositorio podrás encontrar el manual de uso y códigos integrados de los productos diseñados para el monitoreo satelital de lagos glaciares de la Región de Aysén. 
 
-Este producto fue diseñado para la Dirección General de Aguas de la Región de Aysén, bajo el proyecto "Monitoreo Satelital de Lagos Glaciares de la Región de Aysén". 
+*Este producto fue diseñado para la Dirección General de Aguas de la Región de Aysén, bajo el proyecto "Monitoreo Satelital de Lagos Glaciares de la Región de Aysén".* 
 
 ### Secciones
 - Manual de uso y tutorial (producto 1 y producto 2)
