@@ -9,7 +9,7 @@ A continuación podrás encontrar el manual de uso y codigos para el monitoreo s
 Este producto fue diseñado para la Dirección General de Aguas de la Región de Aysén, bajo el proyecto "Monitoreo Satelital de Lagos Glaciares de la Región de Aysén". 
 
 ### Secciones
-- Manual de uso y tutorial
+- Manual de uso y tutorial (producto 1 y producto 2)
 - Ejemplos
 - Repositorio de Códigos
 
