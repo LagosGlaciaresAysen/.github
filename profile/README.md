@@ -30,8 +30,8 @@ En este repositorio podrás encontrar el manual de uso y códigos integrados de 
 </div>
 
 <div>
-<img src="https://user-images.githubusercontent.com/97610610/203406899-bd2e8e91-fc6c-40f8-9f71-a8c5a545ad92.png" width="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
+<a href="https://earthengine.google.com/"><img src="https://user-images.githubusercontent.com/97610610/203406899-bd2e8e91-fc6c-40f8-9f71-a8c5a545ad92.png" width="40"/></a>&nbsp;
+<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;  
+<a href="https://www.anaconda.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/></a>&nbsp;
 </div>
 
