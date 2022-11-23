@@ -5,7 +5,7 @@
 
 # Monitoreo Satelital de Lagos Glaciares en la Región de Aysén
 #### Por <a href='https://www.atacamamb.com/'>Atacama Ambiente</a>
-*Este producto fue diseñado exclusivametne para la Dirección General de Aguas de la Región de Aysén, bajo el proyecto "Monitoreo Satelital de Lagos Glaciares de la Región de Aysén".* 
+*Este producto fue diseñado exclusivamente para la Dirección General de Aguas de la Región de Aysén, bajo el proyecto "Monitoreo Satelital de Lagos Glaciares de la Región de Aysén".* 
 
 En este repositorio podrás encontrar el manual de uso y códigos integrados de los productos diseñados para el monitoreo satelital de lagos glaciares de la Región de Aysén. 
 
