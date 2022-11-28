@@ -18,7 +18,7 @@ En este repositorio podrás encontrar el manual de uso y códigos integrados de 
 
 
 ### Secciones
-- Manual de uso y tutorial (producto 1 y producto 2)
+- <a href="https://github.com/LagosGlaciaresAysen/manuales">Manual de uso y tutorial (producto 1 y producto 2)</a>
 - Ejemplos
 - Repositorio de Códigos
 - Base de datos
